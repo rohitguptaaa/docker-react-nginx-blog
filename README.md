@@ -142,5 +142,3 @@ docker-compose -d up
 ![blog-pictures/docker-compose-up.png](blog-pictures/docker-compose-up.png)
 
 If you are using linux you need to use sudo on every docker command you use !
-
----
